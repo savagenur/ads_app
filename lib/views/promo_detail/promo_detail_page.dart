@@ -1,4 +1,4 @@
-import 'package:ads_app/app/dimension/design_dimension.dart';
+import 'package:ads_app/core/constants/design_dimension.dart';
 import 'package:ads_app/core/extensions/to_build_context_extension.dart';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';

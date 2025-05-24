@@ -1,4 +1,4 @@
-import 'package:ads_app/app/dimension/design_dimension.dart';
+import 'package:ads_app/core/constants/design_dimension.dart';
 import 'package:ads_app/core/extensions/to_build_context_extension.dart';
 import 'package:ads_app/views/promo_detail/promo_detail_page.dart';
 import 'package:ads_app/views/widgets/promo_item.dart';
